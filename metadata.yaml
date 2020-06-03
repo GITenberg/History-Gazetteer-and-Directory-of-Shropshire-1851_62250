@@ -1,0 +1,24 @@
+_repo: History-Gazetteer-and-Directory-of-Shropshire-1851_62250
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Bagshaw, Samuel
+    gutenberg_agent_id: '51850'
+    url: http://www.gutenberg.org/2009/agents/51850
+description: ''
+gutenberg_issued: '2020-05-27'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '62250'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Shropshire (England) -- Directories'
+- !lcsh 'Shropshire (England) -- Gazetteers'
+- !lcc 'DA'
+- !lcsh 'Shropshire (England) -- History'
+- GITenberg
+title: History, Gazetteer, and Directory of Shropshire [1851]
+url: http://www.gutenberg.org/ebooks/62250
